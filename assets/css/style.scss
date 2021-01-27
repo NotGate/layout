@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+body {
+  font: 30px/1.5 "OpenSansRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
 #title {
   display: none;
 }
