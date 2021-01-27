@@ -20,7 +20,7 @@ The matrix version scores 1.660 on the DH analyzer, while the lowest scoring lay
 ![Image](https://i.imgur.com/juz9GsB.png)  
 ![Image](https://i.imgur.com/A09WSY5.png)  
 
-I compared my layout to Colemak, Colemak DH, and MTGAP on the layout analyzer using ergo thumbshift variants for everything. A couple swaps gets the score to 76. I typically beat MTGAP by 1+ points and DH by 2+ points. Layouts like QWERTY score up to 30 points lower than these, so we're still very much in the realm of diminishing returns. 
+I compared my layout to Colemak, Colemak DH, and MTGAP on the layout analyzer using ergo thumbshift variants for everything. A couple swaps gets the score to 76. I typically beat MTGAP by 1+ points and DH by 2+ points. Layouts like QWERTY score up to 30 points lower than these, so we're still very much in the realm of diminishing returns.  
 ![Image](https://i.imgur.com/dPZIob0.png)  
 
 The scores on layout analyzers don't mean everything, and I came across quite a few aspects of them that I disgreed with. However, the metrics of SFB and distance are much more objective (if they're calculated correctly) and ISRT has lower than any other layout I could find in both of those metics:  
