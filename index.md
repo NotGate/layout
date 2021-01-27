@@ -16,8 +16,8 @@ Keep in mind that I think the actual positions of keys on a finger, and even the
 
 Interestingly, this layout has up to 12 keys in common with DH, based on how you want to arrange things, so you could consider it a convoluted DH mod if you want.   
 
-The matrix version scores 1.660 on the DH analyzer, while the lowest scoring layout listed on the [compare page](https://colemakmods.github.io/mod-dh/compare.html) (DH) gets 1.665. Mine also has half or less of the SFB count of most of the others. I've achieved 1.64, but the result really wasn't that good and scored worse on the stevep analyzer:  
-![Image](https://i.imgur.com/juz9GsB.png)  
+The matrix version scores 1.662 on the DH analyzer, while the lowest scoring layout listed on the [compare page](https://colemakmods.github.io/mod-dh/compare.html) (DH) gets 1.665. Mine also has half or less of the SFB count of most of the others. I've achieved 1.64, but the result really wasn't that good and scored worse on the stevep analyzer - the scores on this analyzer are questionable:  
+![Image](https://i.imgur.com/Zilfkpz.png)  
 ![Image](https://i.imgur.com/A09WSY5.png)  
 
 I compared my layout to Colemak, Colemak DH, and MTGAP on the layout analyzer using ergo thumbshift variants for everything. A couple swaps gets the score to 76. I typically beat MTGAP by 1+ points and DH by 2+ points. Layouts like QWERTY score up to 30 points lower than these, so we're still very much in the realm of diminishing returns.  
