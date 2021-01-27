@@ -50,3 +50,5 @@ Here's a very simple AHK script you can use to try it out:
 I'll include EPKL information for it eventually, although I'm not very familiar with that world. 
 
 If you end up including it in any of your QMK layouts, I can link those here too, if you want. 
+
+You can contact me on Discord: NotGate#7317
