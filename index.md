@@ -8,8 +8,8 @@ The first iteration of this layout invovled brute-forcing the lowest SFB count p
 The first thing to notice on this layout is the very low index usage. If I enforce a minimum of 15% or higher usage on the index fingers (Colemak has 18+%) then I end up with something better, but people complained that the pinky movement was too high, since there were columns like `cwg` that might've had low usage and low SFB but would have a decent amount of up and down movement. Therefore, the final layout is a result of the lowest SFB possible, given the constraints of *high index usage* and *low pinky movement*. 
 
 What I eneded up with scored better than all other layouts by a decent amount on the DH analyzer and the stevep analyzer:  
-https://colemakmods.github.io/mod-dh/analyze.html  
-https://stevep99.github.io/keyboard-layout-analyzer/#/main  
+<https://colemakmods.github.io/mod-dh/analyze.html>  
+<https://stevep99.github.io/keyboard-layout-analyzer/#/main>  
 
 Keep in mind that I think the actual positions of keys on a finger, and even the placement of those fingers on left or right, is subjective and flexible. I can max out the DH score even further by appealing to its effort grid, but I end up with something that might be worse. As long as you don't change the SFB count by moving a key from its finger, feel free to swap around the keys and columns to get something that makes more sense to you.   
 
@@ -44,7 +44,7 @@ y c l m k z f u , '
 Thanks to the MonkeyType Discord and Colemak Discord servers for helping me with the creation of this layout and putting up with the dozens of variations I posted that were the "final design I promise". In a world of compromise, it's hard to have something you're happy with. I hope you enjoy it if you decide to use it. 
 
 Here's a very simple AHK script you can use to try it out:  
-https://pastebin.com/mpsdfVc4
+<https://pastebin.com/mpsdfVc4>
 
 I'll include EPKL information for it eventually, although I'm not very familiar with that world. 
 
