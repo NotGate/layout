@@ -11,8 +11,9 @@
   display: none;
 }
 
-section
-{
-   width: 100%; //fallback
-   width: 100vw;
+section {
+  margin: 0 0;
+  margin-top: 0;
+  max-width: 100vw;
+  width: 100%;
 }
