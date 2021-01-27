@@ -5,7 +5,7 @@ My dislike of Same Finger Bigrams in typing is what led me to create my first la
 The first iteration of this layout invovled brute-forcing the lowest SFB count possible, using the corpus used by the DH and Carpalx creators. The result is an SFB percentage of 0.473. For reference, MTGAP, DH, and QWERTY have 1.118, 1.521, 6.556, respectively.  
 ![Image](https://media.discordapp.net/attachments/548799170765389834/802674935268638776/unknown.png?width=492&height=675)
 
-The first thing to notice on this layout is the very low index usage. If I enforce a minimum of 15% or higher usage on the index fingers (Colemak has 18+%) then I end up with something better, but people complained that the pinky movement was too high, since there were columns like `cwg` that might've had low usage and low SFB but would have a decent amount of up and down movement. Therefore, the final layout is a result of the lowest SFB possible, given the constraints of *high index usage* and *low pinky movement*. 
+The first thing to notice about this layout is the very low index usage. If I enforce a minimum of 15% or higher usage on the index fingers (Colemak has 18+%) then I end up with something better, but people complained that the pinky movement was too high, since there were columns like `cwg` that might've had low usage and low SFB but would have a decent amount of up and down movement. Therefore, the final layout is a result of the lowest SFB possible, given the constraints of *high index usage* and *low pinky movement*. 
 
 What I eneded up with scored better than all other layouts by a decent amount on the DH analyzer and the stevep analyzer:  
 <https://colemakmods.github.io/mod-dh/analyze.html>  
