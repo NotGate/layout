@@ -47,8 +47,13 @@ Thanks to the MonkeyType Discord and Colemak Discord servers for helping me with
 You can easily simulate the layout using an AHK script, or you can install it directly into Windows using a simple MSKLC installer, which is what Colemak does (thank you ze_or):  
 <https://github.com/NotGate/layout/releases/tag/1.0>  
 
-I'll include EPKL information for it eventually, although I'm not very familiar with that world. 
+Current/Future Learners (6):  
+- NotGate  
+- juice  
+- Sigh  
+- fortissim  
+- ze_or  
+- blender
 
-If you end up including it in any of your QMK layouts, I can link those here too, if you want. 
-
-You can contact me on Discord: NotGate#7317
+Feel free to DM me on discord about the layout or to get your name added to the users list!  
+NotGate#7317
