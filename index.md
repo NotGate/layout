@@ -47,13 +47,13 @@ Thanks to the MonkeyType Discord and Colemak Discord servers for helping me with
 You can easily simulate the layout using an AHK script, or you can install it directly into Windows using a simple MSKLC installer, which is what Colemak does (thank you ze_or):  
 <https://github.com/NotGate/layout/releases/tag/1.0>  
 
-Current/Future Learners (6):  
-- NotGate  
-- juice  
-- Sigh  
-- fortissim  
-- ze_or  
-- blender
+Current/Future Learners (6):
++ NotGate  
++ juice  
++ Sigh  
++ fortissim  
++ ze_or  
++ blender
 
 Feel free to DM me on discord about the layout or to get your name added to the users list!  
 NotGate#7317
