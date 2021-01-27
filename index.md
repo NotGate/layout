@@ -8,7 +8,7 @@ The first iteration of this layout involved brute-forcing the lowest SFB count p
 
 The first thing to notice about this layout is the very low index usage. If I enforce a minimum of 15% or higher usage on the index fingers (Colemak has 18+%) then I end up with something better, but people complained that the pinky movement was too high, since there were columns like 'cwg' that might've had low usage and low SFB but would have a decent amount of up and down movement. Therefore, the final layout is a result of the lowest SFB possible, given the constraints of *high index usage* and *low pinky movement*. 
 
-What I eneded up with scored better than all other layouts by a decent amount on the DH analyzer and the stevep analyzer:  
+What I ended up with scored better than all other layouts by a decent amount on the DH analyzer and the stevep analyzer:  
 <https://colemakmods.github.io/mod-dh/analyze.html>  
 <https://stevep99.github.io/keyboard-layout-analyzer/#/main>  
 
@@ -23,7 +23,7 @@ The matrix version scores 1.662 on the DH analyzer, while the lowest scoring lay
 I compared my layout to Colemak, Colemak DH, and MTGAP on the layout analyzer using ergo thumbshift variants for everything. A couple swaps gets the score to 76. I typically beat MTGAP by 1+ points and DH by 2+ points. Layouts like QWERTY score up to 30 points lower than these, so we're still very much in the realm of diminishing returns.  
 ![Image](https://i.imgur.com/dPZIob0.png)  
 
-The scores on layout analyzers don't mean everything, and I came across quite a few aspects of them that I disgreed with. However, the metrics of SFB and distance are much more objective (if they're calculated correctly) and ISRT has lower than any other layout I could find in both of those metics:  
+The scores on layout analyzers don't mean everything, and I came across quite a few aspects of them that I disagreed with. However, the metrics of SFB and distance are much more objective (if they're calculated correctly) and ISRT has lower than any other layout I could find in both of those metrics:  
 ![Image](https://i.imgur.com/HQkDF6B.png)  
 ![Image](https://i.imgur.com/4Syztbn.png)  
 
