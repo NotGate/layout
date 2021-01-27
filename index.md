@@ -1,6 +1,6 @@
 ## NotGate's SFB Minimized Layout
 
-My dislike of Same Finger Bigrams in typing is what led me to create my first layouts. QWERTY is full of SFBs, and most people don't realize because they've either developed a flexible style of typing that involves alternative fingers or they're not fast enough for it to really annoy them. 
+My dislike of Same Finger Bigrams in typing is what led me to create my first layouts. QWERTY is full of SFBs (ed ec fr gr rt br sw hu hy nu mu ju ki lo, etc), and most people don't realize because they've either developed a flexible style of typing that involves alternative fingers or they're not fast enough for it to really annoy them. 
 
 The first iteration of this layout invovled brute-forcing the lowest SFB count possible, using the corpus used by the DH and Carpalx creators. The result is an SFB percentage of 0.473. For reference, MTGAP, DH, and QWERTY have 1.118, 1.521, 6.556, respectively.  
 ![Image](https://media.discordapp.net/attachments/548799170765389834/802674935268638776/unknown.png?width=492&height=675)
