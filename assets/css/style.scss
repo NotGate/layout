@@ -22,12 +22,16 @@ h2 {
   font-size: 40px;
 }
 
+code {
+  font: 30px/1.5 "OpenSansRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
 #header {
   display: none;
 }
 
 .wrapper {
-    max-width: 80%;
+  max-width: 80%;
 }
 
 section {
