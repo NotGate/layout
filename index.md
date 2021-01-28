@@ -44,7 +44,7 @@ y c l m k z f u , '
 
 Thanks to the MonkeyType Discord and Colemak Discord servers for helping me with the creation of this layout and putting up with the dozens of variations I posted that were the "final design I promise". In a world of compromise, it's hard to have something you're happy with. I hope you enjoy it if you decide to use it. 
 
-You can easily simulate the layout using an AHK script, or you can install it directly into Windows using a simple MSKLC installer, which is what Colemak does (thank you ze_or):  
+There are AHK and XKB files available for the layout as well as full installs using MSKLC and EPKL. Thank you ze_or, DreymaR and Semi!    
 <https://github.com/NotGate/layout/releases/tag/1.0>  
 
 Current/Future Learners 😄 (9):
