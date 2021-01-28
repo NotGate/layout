@@ -54,6 +54,7 @@ Current/Future Learners 😄 (8):
 + fortissim
 + Matthew Hinton
 + Renato
++ Semi
 + ze_or  
 + blender
 
