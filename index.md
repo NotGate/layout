@@ -50,7 +50,7 @@ There are AHK and XKB files available for the layout as well as full installs us
 Current/Future Learners 😄 (9):
 + NotGate  
 + juice  
-+ Sigh  
++ neidan   
 + fortissim
 + Matthew Hinton
 + Renato
