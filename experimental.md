@@ -11,4 +11,4 @@ I decided to lower the total amount of index usage from 18% to 14%. This evens o
 
 The `sy` and `nl` SFBs can be alt-fingered without too much difficulty (as well as many of the others), but escaping `eu` and `oa` has been pretty much impossible for my low SFB layouts. I think this is honestly a great layout for typing on a staggered board, and becomes even better if you figure out how to make efficient usage of the repeat key I mentioned in the original ISRT article.  
 
-## Taipo
+## [Taipo](#taipo)
