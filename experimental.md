@@ -1,5 +1,6 @@
-# Experimental Layouts
-## SIND
+# Experimental Layouts {[SIND](#sind), [Taipo](#taipo)}
+
+## [SIND](#sind)
 The ISRT layout follows a more conventional form of layout design and is in the same universe as layouts like Colemak. I designed it to score highly in comparison to DH and MTGAP on modern analyzer sites, while still following the theme of lowest SFB possible. However, I mentioned that I disagreed with some aspects of how the analyzers functioned. They weight index usage too highly and their effort matrix is odd to me because it will inherently increase total distance and the number of row jumps by the index fingers.  
 
 The 1st image shows a layout using the DH effort matrix for index, and the 2nd image shows an effort matrix which keeps the index finger floating above the 4 most common keys. While you might find the center column a work of satan, I think reducing the constant up and down movement of the index finger outweighs this, especially when the center column is much less uncomfortable on ANSI keyboards like laptops.   
