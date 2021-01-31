@@ -1,4 +1,4 @@
-## NotGate's SFB Minimized Layout [🛠️](https://github.com/NotGate/layout) [🧪](https://notgate.github.io/layout/experimental)
+# NotGate's SFB Minimized Layout [🛠️](https://github.com/NotGate/layout) [🧪](https://notgate.github.io/layout/experimental)
 *TLDR: The ISRT layout is a comfortable layout for both ortho and ansi boards, and it has lower SFB count and distance than most modern layouts.*
 
 My dislike of Same Finger Bigrams (using the same finger twice in a row) in typing is what led me to create my first layouts. QWERTY is full of SFBs (ed ec fr gr rt br sw hu hy nu mu ju ki lo, etc), and most people don't realize because they've either developed a flexible style of typing that involves alternative fingers or they're not fast enough for it to really annoy them. 
