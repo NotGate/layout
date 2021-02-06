@@ -47,7 +47,7 @@ Thanks to the MonkeyType Discord and Colemak Discord servers for helping me with
 There are AHK and XKB files available for the layout as well as full installs using MSKLC and [EPKL](https://github.com/DreymaR/BigBagKbdTrixPKL/tree/master/Layouts/_Test/Cmk-eD-NotGate_ANS_CurlAngle). Thank you ze_or, DreymaR and Semi!    
 <https://github.com/NotGate/layout/releases/tag/1.0>  
 
-Current/Future Learners 😄 (10):
+Current/Future Learners 😄 (11):
 + NotGate  
 + juice  
 + neidan   
@@ -56,6 +56,7 @@ Current/Future Learners 😄 (10):
 + Renato
 + Semi
 + Solsthiem
++ AIVV73
 + ze_or  
 + blender
 
