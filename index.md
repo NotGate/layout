@@ -55,6 +55,8 @@ Current/Future Learners 😄 (12):
 + Matthew Hinton
 + Renato
 + Semi
++ boo
++ Buzz
 + Solsthiem
 + AIVV73
 + morpheus
