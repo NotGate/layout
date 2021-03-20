@@ -12,10 +12,15 @@ body {
 }
 
 img {
+  width: 500px;
+  float: left;
+  clear: both;
+  padding: 10px;
+  
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 70%;
+  //width: 70%;
 }
 
 h1 {
@@ -44,4 +49,13 @@ section {
   margin-top: 0;
   max-width: 100vw;
   width: 100%;
+}
+
+p {
+  text-align: justify;
+  font-size: 20px;
+}
+
+ul {
+  margin-left: 530px;
 }
