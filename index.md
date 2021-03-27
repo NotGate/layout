@@ -63,6 +63,7 @@ Current/Future Learners 😄 (15):
 + aftersome
 + ze_or  
 + blender
++ Technobald
 
 Feel free to DM me on discord about the layout or to get your name added to the users list!  
 NotGate#7317
