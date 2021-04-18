@@ -1,1 +1,9 @@
+@import "{{ site.theme }}";
 
+body {
+  font: 20px/1.5 "OpenSansRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#title {
+  display: none;
+}
