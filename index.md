@@ -20,6 +20,9 @@ The matrix version scores 1.662 on the DH analyzer, while the lowest scoring lay
 ![Image](https://i.imgur.com/Zilfkpz.png)  
 ![Image](https://i.imgur.com/A09WSY5.png)  
 
+According to a more recent analysis by DreymaR, using a newer version of the site, ISRT wins by an even larger margin:  
+"So bottom line, the comparable numbers for Colemak-DH vs ISRT on a 3×10 matrix on this analyzer are 1.687 (Cmk-DH) vs 1.659 (IndyRad/ISRT). You beat DH by a healthy 0.028 points in this analysis." - DreymaR  
+
 I compared my layout to Colemak, Colemak DH, and MTGAP on the layout analyzer using ergo thumbshift variants for everything. A couple swaps gets the score to 76. I typically beat MTGAP by 1+ points and DH by 2+ points. Layouts like QWERTY score up to 30 points lower than these, so we're still very much in the realm of diminishing returns.  
 ![Image](https://i.imgur.com/dPZIob0.png)  
 
@@ -74,7 +77,7 @@ I'll be learning this layout using an AHK script (you can do this in QMK too) wh
 1) One Shot Shift: Omits the need to hold down shift in order to capatilize something. You tap shift and whether it releases before the next key or after doesn't matter. No more typing 'THe'! This really frees up the pinky and is a superior version to Window's Sticky Keys.   
 2) Repeat Key: Bound to right alt (by default) and repeats the last key pressed. I suggest you try to use the thumb that doesn't press space for this. The repeat key fits the theme of reducing SFBs by as much as possible and has the bonus of including the 10th finger. Words like follow become 'fol[rep]ow' so your flow is never broken by the speed of a single finger. It might seem overkill but you quickly get used to it and it's great for keeping a steady pace. There are actually far more double letters than SFBs in typing, so technically this matters more for preserving flow than the layout's SFB minimization 🙃.    
  
-AHK:  
+AHK (thank you AHK discord helpers!):  
 <https://gist.github.com/NotGate/74a5993307424ddb5c9edb87b6280728>  
-QMK:  
+QMK (thank you Apsu and precondition for the improvements!):  
 <https://gist.github.com/NotGate/3e3d8ab81300a86522b2c2549f99b131>  
