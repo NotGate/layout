@@ -50,16 +50,12 @@ Thanks to the MonkeyType Discord and Colemak Discord servers for helping me with
 There are AHK and XKB files available for the layout as well as full installs using MSKLC and [EPKL](https://github.com/DreymaR/BigBagKbdTrixPKL/tree/master/Layouts/_Test/Cmk-eD-NotGate_ANS_CurlAngleSym). Thank you ze_or, DreymaR and Semi!    
 <https://github.com/NotGate/layout/releases/tag/1.0>  
 
-Current/Future Learners 😄 (16):
-+ NotGate  
+Current/Future Learners 😄 (12):
 + juice  
 + neidan   
 + fortissim
 + Matthew Hinton
-+ Renato
 + Semi
-+ boo
-+ Buzz
 + Solsthiem
 + AIVV73
 + morpheus
